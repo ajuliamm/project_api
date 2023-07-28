@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "order": "Pizza",
+    "clientName": "João",
+    "price": 25.99,
+    "status": "Em preparação"
+  },
+  {
+    "id": "2",
+    "order": "Hambúrguer",
+    "clientName": "Maria",
+    "price": 12.5,
+    "status": "Entregue"
+  },
+  {
+    "id": "3",
+    "order": "Salada",
+    "clientName": "Lucas",
+    "price": 8.9,
+    "status": "Em preparação"
+  },
+  {
+    "id": "b1b4facd-ecb3-4a55-8d89-22cd25658976",
+    "order": "X- Salada, 2 batatas grandes, 1 coca-cola",
+    "clientName": "José",
+    "price": 44.5,
+    "status": "Em preparação"
+  },
+  {
+    "id": "f6406457-d5d3-4753-ba33-2da2b4b952b2",
+    "order": "X- Salada, 2 batatas grandes, 1 coca-cola",
+    "clientName": "José",
+    "price": 44.5,
+    "status": "Em preparação"
+  },
+  {
+    "id": "48c2e9b6-fc93-4524-9b3d-d0e08be6b9d5",
+    "order": "X- Salada, 2 batatas grandes, 1 coca-cola",
+    "clientName": "José",
+    "price": 44.5,
+    "status": "Em preparação"
+  },
+  {
+    "id": "3c5b8881-47d9-43e3-b7fe-47b247f95901",
+    "order": "X- Salada, 2 batatas grandes, 1 coca-cola",
+    "clientName": "Luisa",
+    "price": 44.5,
+    "status": "Em preparação"
+  }
+]
